@@ -1,2 +1,2 @@
 # Portfolio
-## This i my own protfolio 
+## This is my own protfolio using HTML5 , CSS and Javascript.
