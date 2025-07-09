@@ -1,3 +1,3 @@
 # Portfolio
-## This is my own protfolio using HTML5 , CSSt.
+## This is my own protfolio using HTML5 , CSS.
 
